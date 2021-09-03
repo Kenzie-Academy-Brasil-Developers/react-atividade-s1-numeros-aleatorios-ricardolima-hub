@@ -1,0 +1,22 @@
+.container {
+    height: 200px;
+    width: 200px;
+}
+
+.container p {
+    font-size: 55px;
+    font-weight: 700;
+    margin: 0 auto;
+}
+
+.container button {
+    width: 190px;
+    height: 80px;
+    margin-top: 1rem;
+    font-size:19px;
+    font-weight: 700;
+    background-color: blueviolet;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+}
